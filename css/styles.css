@@ -259,8 +259,16 @@ button {
   margin-bottom: 30px;
 }
 
-.fa {
+.social-links a {
   text-decoration: none;
+}
+
+.social-links a:hover {
+  text-decoration: none;
+  color: var(--purple);
+}
+
+.fa {
   font-size: 20px !important;
   color: var(--purple);
 }
