@@ -290,3 +290,9 @@ button {
     flex-direction: row;
   }
 }
+
+@media (max-height: 820px) {
+  .section-card {
+    height: 360px;
+  }
+}
